@@ -1,3 +1,8 @@
+"""
+ author : Ezra Wu
+ Email:zgahwuqiankun@qq.com
+ Data:2017-12-1
+"""
 data = [
         [1, 1, 'yes'],
         [1, 0, 'no' ],
